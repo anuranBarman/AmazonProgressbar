@@ -2,6 +2,9 @@
 
 simple progressbar to show during network operation. Inspired by Amazon Android App.
 
+![Screenshot](https://github.com/anuranBarman/AmazonProgressbar/amazonProgressbar.gif "Screenshot")
+
+
 # How to Use
 
 add the library via Jitpack. Add below lines to your build.gradle file (Project Level)
