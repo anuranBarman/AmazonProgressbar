@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AmazonProgressbarView">
+        <attr name="holderWidth" format="integer" >200</attr>
+        <attr name="holderHeight" format="integer" >200</attr>
+        <attr name="holderColor" format="string" >#313131</attr>
+    </declare-styleable>
+</resources>
