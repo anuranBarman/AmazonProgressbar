@@ -9,7 +9,6 @@ add the library via Jitpack. Add below lines to your build.gradle file (Project 
 ```
 	allprojects {
 		repositories {
-			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
