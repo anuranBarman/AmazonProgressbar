@@ -2,7 +2,7 @@
 
 simple progressbar to show during network operation. Inspired by Amazon Android App.
 
-![Screenshot](https://github.com/anuranBarman/AmazonProgressbar/amazonProgressbar.gif "Screenshot")
+![](https://github.com/anuranBarman/AmazonProgressbar/blob/master/amazonProgressbar.gif "Screenshot")
 
 
 # How to Use
