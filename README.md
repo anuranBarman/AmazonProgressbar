@@ -21,6 +21,7 @@ add below lines to your build.gradle file (App level)
 	}
 
 ```
+Add this to your XML layout. Works best with FrameLayout as parent layout.
 
 ```
     <com.mranuran.amazonprogressbar.AmazonProgressbarView
