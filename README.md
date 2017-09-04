@@ -4,6 +4,25 @@ simple progressbar to show during network operation. Inspired by Amazon Android 
 
 # How to Use
 
+add the library via Jitpack. Add below lines to your build.gradle file (Project Level)
+
+```
+	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+add below lines to your build.gradle file (App level)
+
+```
+	dependencies {
+	        compile 'com.github.anuranBarman:AmazonProgressbar:1.0.0'
+	}
+
+```
+
 ```
     <com.mranuran.amazonprogressbar.AmazonProgressbarView
     android:layout_width="match_parent"
